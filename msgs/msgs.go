@@ -1,4 +1,4 @@
-package messages
+package msgs
 
 
 type QuestionIn struct {
